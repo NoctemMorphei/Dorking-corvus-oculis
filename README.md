@@ -16,7 +16,7 @@
 ter o python3 e git clone instalados
 
 ## 🔧 instalação no termux/Kali ou Kali Linux 
-https://github.com/NoctemMorphei/Dorking-Corvus-oculis/
+git clone https://github.com/NoctemMorphei/Dorking-Corvus-oculis/
 
  cd Dorking-Corvus-oculis
 
