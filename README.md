@@ -2,19 +2,20 @@
 
   <img width="200" height="200" src="20240306_215451_0000.png">
 
-# corvus oculis
+## corvus oculis
  corvus oculis, uma ferramenta feita em python com objetivo de encontrar dados,falhas e informações restritas e específicas em sites do Google
-##🥽 testado em
+
+## 🥽 testado em
 
 ✔TERMUX
 
 ✔Kali ou Kali Linux
 
-##📋 Pré-requisitos
+## 📋 Pré-requisitos
 
 ter o python3 e git clone instalados
 
-##🔧 instalação no termux/Kali ou Kali Linux
+## 🔧 instalação no termux/Kali ou Kali Linux
 .https://github.com/NoctemMorphei/Dorking-corvus-oculis/
 
 .cd Dorking-corvus-oculis
@@ -23,5 +24,5 @@ ter o python3 e git clone instalados
 
 .python corvus.py
 
-##⚙️ executar a ferramenta
+## ⚙️ executar a ferramenta
 .python Corvus.py
