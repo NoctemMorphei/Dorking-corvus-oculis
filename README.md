@@ -26,3 +26,4 @@ git clone https://github.com/NoctemMorphei/Dorking-corvus-oculis/
 
 ## ⚙️ executar ferramenta
  python corvus.py
+## versão 1.0
