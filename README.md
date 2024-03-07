@@ -16,13 +16,13 @@
 ter o python3 e git clone instalados
 
 ## 🔧 instalação no termux/Kali ou Kali Linux 
-git clone https://github.com/NoctemMorphei/Dorking-Corvus-oculis/
+git clone https://github.com/NoctemMorphei/Dorking-corvus-oculis/
 
- cd Dorking-Corvus-oculis
+ cd Dorking-corvus-oculis
 
  pip install pystyle
 
- python Corvus.py
+ python corvus.py
 
 ## ⚙️ executar ferramenta
- python Corvus.py
+ python corvus.py
