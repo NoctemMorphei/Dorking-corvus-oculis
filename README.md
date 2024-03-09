@@ -9,13 +9,13 @@
 
 ✅️TERMUX
 
-✅️Kali ou Kali Linux
+✅️KALI
 
 ## 📋 Pré-requisitos
 
 ter o python3 e git clone instalados
 
-## 🔧 instalação no termux/Kali ou Kali Linux 
+## 🔧 instalação no Termux/Kali
 git clone https://github.com/NoctemMorphei/Dorking-corvus-oculis/
 
  cd Dorking-corvus-oculis
